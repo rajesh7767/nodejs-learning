@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/rajesh7767/nodejs-learning/issues"
   },
-  "homepage": "https://github.com/rajesh7767/nodejs-learning#readme"
+  "homepage": "https://github.com/rajesh7767/nodejs-learning#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.3.1",
+    "env": "^0.0.2",
+    "http": "^0.0.1-security",
+    "nodemon": "^3.0.1",
+    "progress": "^2.0.3"
+  }
 }
